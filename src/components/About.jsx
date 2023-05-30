@@ -5,7 +5,7 @@ const About = ()=>{
      const abtImage = "src/assets/images/hero.JPG";
      const info = [
           {text:'Years Experience', count:'04'},
-          {text:'Completed Projects', count:'24'},
+          {text:'Completed Projects', count:'14'},
           {text:'Company works', count:'02'}
      ]
      return <section id="about" className="md:py-10  text-white">

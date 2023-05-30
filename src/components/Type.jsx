@@ -10,7 +10,7 @@ function Type() {
           "Mobile App Developer",
           "FullStack Developer",
           "Competitive Programmer",
-          "Student"
+          
         ],
         autoStart: true,
         loop: true,

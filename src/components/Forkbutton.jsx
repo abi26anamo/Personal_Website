@@ -5,7 +5,6 @@ const ForkButton = () => {
   return (
     <div >
       <a
-        href="https://github.com/elshadaik/CV"
         target="_blank"
         rel="noopener noreferrer"
         className="fork-btn-inner flex items-center"

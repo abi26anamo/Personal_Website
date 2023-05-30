@@ -5,7 +5,6 @@ import Contact from "./components/Contact";
 import Project from "./components/Projects";
 import Footer from "./components/Footer";
 import Bot from "./components/Bot";
-import Hireme from "./components/Hireme";
 import Skill from "./components/Skills";
 import Home from "./components/Home";
 import Certificates from "./components/Certificates";

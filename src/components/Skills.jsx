@@ -35,7 +35,7 @@ const Skill = ()=>{
                 <h3 className="text-4xl font-semibold">
                My <span className="text-cyan-600">Skills</span>
                 </h3>
-                <p className="text-gray-400 mt-3 text-lg">This are technologies I have been working with.</p>
+                <p className="text-gray-400 mt-3 text-lg">These are technologies I have been working with.</p>
                 <TechStack/>
           </div>
      </section> ;

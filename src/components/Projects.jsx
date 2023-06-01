@@ -8,6 +8,7 @@ const Project = () => {
      const farmadvisor = "src/assets/images/farmport.png";
      const crimeReporter = "src/assets/images/crime_report.png";
      const virtualCard = "src/assets/images/virutal_card.jpg";
+     const yeneHub = "src/assets/images/yenehub.png"
      const projects=[
           {
                img:amharabank1,
@@ -29,6 +30,11 @@ const Project = () => {
                img:virtualCard,
                name:" Virtaul Gift Card Application",
                github_link:"https://github.com/Temesgenzewude/virtual-card-project"
+          },
+          {
+            img :yeneHub,
+            name:"YeneHub Social Media Fullstack Website",
+            github_link:"https://github.com/abi26anamo/YeneHub"
           }
      ];
   return (

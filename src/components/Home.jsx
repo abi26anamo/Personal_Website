@@ -1,4 +1,3 @@
-import { link } from "joi";
 import React from "react";
 import Type from "./Type";
 

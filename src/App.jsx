@@ -8,7 +8,7 @@ import Bot from "./components/Bot";
 import Skill from "./components/Skills";
 import Home from "./components/Home";
 import Certificates from "./components/Certificates";
-
+import Tools from "./components/Tools";
 const App =()=>{
     return(
     <>
@@ -17,6 +17,7 @@ const App =()=>{
     <Home/>
     <About/>
     <Skill/>
+    <Tools/>
     <Project/>
     <Certificates/>
     <Contact/>

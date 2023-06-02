@@ -32,20 +32,10 @@ const TechStack = ()=>{
                            <div className="tech-icons">
                                <SiFlutter className="text-4xl" />
                            </div>
+
                        </div>
                      </div>
-                </div>
-                <div className="border-2 border-cyan-600 relative md:min-w-[10rem] md:max-w-[16rem] bg-gray-900 md:p-10 p-6 rounded-xl">
-                    <div className="md:w-32 w-16  md:h-32 h-16  flex flex-col items-center justify-center group rounded-full" style={{
-                              background:`conic-gradient(rgb(8,145,170) ${76}%,#ddd ${76}%)`,
-                         }}>
-                       <div className="md:text-6xl text-xl md:w-28 w-14  md:h-28 h-14 bg-gray-900 rounded-full flex items-center justify-center group-hover:text-cyan-600">
-                           <div className="tech-icons">
-                               <SiAndroid className="text-4xl" />
-                           </div>
-                       </div>
-               
-                     </div>
+                     <p className="mt-2">Flutter</p>
                 </div>
                 <div className="border-2 border-cyan-600 relative md:min-w-[10rem] md:max-w-[16rem] bg-gray-900 md:p-10 p-6 rounded-xl">
                     <div className="md:w-32 w-16  md:h-32 h-16  flex flex-col items-center justify-center group rounded-full" style={{
@@ -58,6 +48,8 @@ const TechStack = ()=>{
                        </div>
                
                      </div>
+                     <p className="mt-2">NodeJs</p>
+
                 </div>
                 <div className="border-2 border-cyan-600 relative md:min-w-[10rem] md:max-w-[16rem] bg-gray-900 md:p-10 p-6 rounded-xl">
                     <div className="md:w-32 w-16  md:h-32 h-16  flex flex-col items-center justify-center group rounded-full" style={{
@@ -70,6 +62,8 @@ const TechStack = ()=>{
                        </div>
                
                      </div>
+                     <p className="mt-2">MySQL</p>
+
                 </div>
                 <div className="border-2 border-cyan-600 relative md:min-w-[10rem] md:max-w-[16rem] bg-gray-900 md:p-10 p-6 rounded-xl">
                     <div className="md:w-32 w-16  md:h-32 h-16  flex flex-col items-center justify-center group rounded-full" style={{
@@ -79,9 +73,11 @@ const TechStack = ()=>{
                            <div className="tech-icons">
                                <DiJava className="text-4xl" />
                            </div>
+
                        </div>
-               
                      </div>
+                     <p className="mt-2">Java</p>
+
                 </div>
                 <div className="border-2 border-cyan-600 relative md:min-w-[10rem] md:max-w-[16rem] bg-gray-900 md:p-10 p-6 rounded-xl">
                     <div className="md:w-32 w-16  md:h-32 h-16  flex flex-col items-center justify-center group rounded-full" style={{
@@ -94,6 +90,8 @@ const TechStack = ()=>{
                        </div>
                
                      </div>
+                     <p className="mt-2">React</p>
+
                 </div>
                 <div className="border-2 border-cyan-600 relative md:min-w-[10rem] md:max-w-[16rem] bg-gray-900 md:p-10 p-6 rounded-xl">
                     <div className="md:w-32 w-16  md:h-32 h-16  flex flex-col items-center justify-center group rounded-full" style={{
@@ -106,6 +104,8 @@ const TechStack = ()=>{
                        </div>
                
                      </div>
+                     <p className="mt-2">Mongodb</p>
+
                 </div>
                 <div className="border-2 border-cyan-600 relative md:min-w-[10rem] md:max-w-[16rem] bg-gray-900 md:p-10 p-6 rounded-xl">
                     <div className="md:w-32 w-16  md:h-32 h-16  flex flex-col items-center justify-center group rounded-full" style={{
@@ -118,6 +118,8 @@ const TechStack = ()=>{
                        </div>
                
                      </div>
+                     <p className="mt-2">python</p>
+
                 </div>
                 <div className="border-2 border-cyan-600 relative md:min-w-[10rem] md:max-w-[16rem] bg-gray-900 md:p-10 p-6 rounded-xl">
                     <div className="md:w-32 w-16  md:h-32 h-16  flex flex-col items-center justify-center group rounded-full" style={{
@@ -130,6 +132,8 @@ const TechStack = ()=>{
                        </div>
                
                      </div>
+                     <p className="mt-2">CSS</p>
+
                 </div>
                 <div className="border-2 border-cyan-600 relative md:min-w-[10rem] md:max-w-[16rem] bg-gray-900 md:p-10 p-6 rounded-xl">
                     <div className="md:w-32 w-16  md:h-32 h-16  flex flex-col items-center justify-center group rounded-full" style={{
@@ -142,6 +146,8 @@ const TechStack = ()=>{
                        </div>
                
                      </div>
+                     <p className="mt-2">Html</p>
+
                 </div>
                 <div className="border-2 border-cyan-600 relative md:min-w-[10rem] md:max-w-[16rem] bg-gray-900 md:p-10 p-6 rounded-xl">
                     <div className="md:w-32 w-16  md:h-32 h-16  flex flex-col items-center justify-center group rounded-full" style={{
@@ -154,6 +160,8 @@ const TechStack = ()=>{
                        </div>
                
                      </div>
+                     <p className="mt-2">Django</p>
+
                 </div>
                 <div className="border-2 border-cyan-600 relative md:min-w-[10rem] md:max-w-[16rem] bg-gray-900 md:p-10 p-6 rounded-xl">
                     <div className="md:w-32 w-16  md:h-32 h-16  flex flex-col items-center justify-center group rounded-full" style={{
@@ -166,6 +174,8 @@ const TechStack = ()=>{
                        </div>
                
                      </div>
+                     <p className="mt-2">Javascript</p>
+
                 </div>
                 <div className="border-2 border-cyan-600 relative md:min-w-[10rem] md:max-w-[16rem] bg-gray-900 md:p-10 p-6 rounded-xl">
                     <div className="md:w-32 w-16  md:h-32 h-16  flex flex-col items-center justify-center group rounded-full" style={{
@@ -178,6 +188,8 @@ const TechStack = ()=>{
                        </div>
                
                      </div>
+                     <p className="mt-2">Git</p>
+
                 </div>
                 
                 

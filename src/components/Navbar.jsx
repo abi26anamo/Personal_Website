@@ -8,6 +8,7 @@ const Navbar = ()=>{
      {name:"HOME",link:'#home'},
      {name:"ABOUT",link:"#about"},
      {name:"SKILLS",link:"#skills"},
+     {name:"Tools",link:"#tools"},
      {name:"PROJECTS",link:"#projects"},
      {name:"CERTIFICATES",link:"#certificates"},
      {name:"CONTACT",link:"#contact"},

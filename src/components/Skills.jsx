@@ -1,5 +1,6 @@
 import React from "react";
 import TechStack from "./Techstack";
+import Toolstack from "./Toolstack";
 
 import {
      SiFlutter,
@@ -38,6 +39,7 @@ const Skill = ()=>{
                 <p className="text-gray-400 mt-3 text-lg">These are technologies I have been working with.</p>
                 <TechStack/>
           </div>
+          
      </section> ;
 };
 

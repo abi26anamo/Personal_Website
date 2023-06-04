@@ -1,6 +1,6 @@
 import React from "react";
 
-function Github() {
+function Leetcode() {
   return (
     <div className="flex flex-col items-center mt-10 text-gray-100 text-center">
       <h1 className="text-3xl font-bold">
@@ -13,7 +13,7 @@ function Github() {
   );
 }
 
-export default Github;
+export default Leetcode;
 
 
 

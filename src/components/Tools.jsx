@@ -1,6 +1,6 @@
 import React from "react";
 import Toolstack from "./Toolstack";
-import Github from "./CodeDay";
+import Leetcode from "./CodeDay";
 
 const Tools = ()=>{
     return (
@@ -15,7 +15,7 @@ const Tools = ()=>{
           </div>
 
           <div>
-            <Github/>
+            <Leetcode/>
           </div>
         </section>
     );

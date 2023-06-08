@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Personal_Website/static/css/main.f418158f.css",
-    "main.js": "/Personal_Website/static/js/main.bee1643b.js",
+    "main.js": "/Personal_Website/static/js/main.f78a7937.js",
     "static/media/hero.JPG": "/Personal_Website/static/media/hero.fb1ba5683069c5cc06c2.JPG",
     "static/media/abi_post.png": "/Personal_Website/static/media/abi_post.afd3b6aeb98e90b7ecc5.png",
     "static/media/web_djano_coru.jpeg": "/Personal_Website/static/media/web_djano_coru.d8e34589e230432ece2b.jpeg",
@@ -9,16 +9,17 @@
     "static/media/server_side.jpeg": "/Personal_Website/static/media/server_side.fac36bd76f8e5cb36309.jpeg",
     "static/media/react.jpeg": "/Personal_Website/static/media/react.afb48b8497082c749b6a.jpeg",
     "static/media/git_and_github.jpeg": "/Personal_Website/static/media/git_and_github.186207d0918ee2edb138.jpeg",
+    "static/media/daysIcode.png": "/Personal_Website/static/media/daysIcode.0e1684bccabb89f9b3bf.png",
     "static/media/farmport.png": "/Personal_Website/static/media/farmport.1646538230a11cebb605.png",
     "static/media/amahara_bank4.jpg": "/Personal_Website/static/media/amahara_bank4.e5d1d3f6ac609101512c.jpg",
     "static/media/virutal_card.jpg": "/Personal_Website/static/media/virutal_card.d15bcf2284ae195c876c.jpg",
     "static/media/crime_report.png": "/Personal_Website/static/media/crime_report.b6c145342722fda4b7c3.png",
     "index.html": "/Personal_Website/index.html",
     "main.f418158f.css.map": "/Personal_Website/static/css/main.f418158f.css.map",
-    "main.bee1643b.js.map": "/Personal_Website/static/js/main.bee1643b.js.map"
+    "main.f78a7937.js.map": "/Personal_Website/static/js/main.f78a7937.js.map"
   },
   "entrypoints": [
     "static/css/main.f418158f.css",
-    "static/js/main.bee1643b.js"
+    "static/js/main.f78a7937.js"
   ]
 }

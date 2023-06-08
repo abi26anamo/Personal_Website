@@ -23,7 +23,7 @@ const TechStack = ()=>{
 
     return (
         <div className="mt-4 flex justify-center pb-8">
-            <div className="grid grid-cols-2  md:grid-cols-4 gap-8">
+            <div className="grid grid-cols-2 sm:px-2 md:grid-cols-4 gap-8">
                 <div className="border-2 border-cyan-600 relative md:min-w-[10rem] md:max-w-[16rem] bg-gray-900 md:p-10 p-6 rounded-xl">
                     <div className="md:w-32 w-16  md:h-32 h-16  flex flex-col items-center justify-center group rounded-full" style={{
                               background:`conic-gradient(rgb(8,145,170) ${96}%,#ddd ${96}%)`,

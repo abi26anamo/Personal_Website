@@ -8,7 +8,8 @@ const Project = () => {
      const farmadvisor = "src/assets/images/farmport.png";
      const crimeReporter = "src/assets/images/crime_report.png";
      const virtualCard = "src/assets/images/virutal_card.jpg";
-     const yeneHub = "src/assets/images/yenehub.png"
+     const yeneHub = "src/assets/images/abi_post.png"
+
      const projects=[
           {
                img:amharabank1,

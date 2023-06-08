@@ -1,8 +1,7 @@
 import React from "react";
-
+import abtImage from "../assets/images/hero.JPG";
 
 const About = ()=>{
-     const abtImage = "src/assets/images/hero.JPG";
      const info = [
           {text:'Years Experience', count:'04'},
           {text:'Completed Projects', count:'14'},
@@ -17,7 +16,7 @@ const About = ()=>{
        <p className="text-gray-400 my-3 text-lg"> Let me introduce myself</p>
 
        <div className="w-full">
-          <div className="flex md:flex-row flex-col-reverse items-center md:gap-6 gap-12   max-w-6xl md:h-4/5 mx-auto justify-between">
+       <div className="flex md:flex-row flex-col-reverse items-center md:gap-6 gap-12 max-w-6xl mx-auto justify-between">
                <div className=" text-gray-300 md:w-11/12 my-3 flex flex-col justify-center md:gap-5 gap-3">
                     <p className="md:text-justify text-justify-center leading-7 md:w-full w-11/12 mx-auto">
                     Experienced Software Engineer with hands-on experience in mobile app development using flutter,
@@ -50,8 +49,8 @@ const About = ()=>{
                    
                </div>
                <div className="flex-1 flex justify-center items-center md:h-full">
-                    <div className="lg:w-96 h-full relative sm:w-10/12 w-11/12  max-w-sm ">
-                         <img src={abtImage}  alt="" className="w-full object-cover h-full gb-cyan-600 rounded-xl" />
+                    <div className="lg:w-96 h-full relative sm:w-10/12 w-11/12 max-w-sm">
+                         <img src={abtImage} alt="" className="w-full h-full object-cover rounded-xl" />
                     </div>
                </div>
                

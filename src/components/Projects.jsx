@@ -2,13 +2,14 @@ import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/swiper-bundle.css';
 import { Pagination, Autoplay } from 'swiper';
+import amharabank1 from "../assets/images/amahara_bank4.jpg";
+import farmadvisor from "../assets/images/farmport.png";
+import crimeReporter from "../assets/images/crime_report.png";
+import virtualCard from "../assets/images/virutal_card.jpg";
+import yeneHub from "../assets/images/abi_post.png";
 
 const Project = () => {
-     const amharabank1 = "src/assets/images/amahara_bank4.jpg";
-     const farmadvisor = "src/assets/images/farmport.png";
-     const crimeReporter = "src/assets/images/crime_report.png";
-     const virtualCard = "src/assets/images/virutal_card.jpg";
-     const yeneHub = "src/assets/images/abi_post.png"
+
 
      const projects=[
           {

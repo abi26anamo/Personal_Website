@@ -2,14 +2,14 @@ import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/swiper-bundle.css';
 import { Pagination, Autoplay } from 'swiper';
+import serverSide from "../assets/images/server_side.jpeg";
+import react from "../assets/images/react.jpeg";
+import software from "../assets/images/softare_developement.jpeg";
+import github from "../assets/images/git_and_github.jpeg";
+import django from "../assets/images/web_djano_coru.jpeg";
 
 const Certificates = () => {
-     const amharabank1 = "src/assets/images/hero.JPG";
-     const serverSide = "src/assets/images/server_side.jpeg";
-     const react = "src/assets/images/react.jpeg";
-     const software = "src/assets/images/softare_developement.jpeg";
-     const github = "src/assets/images/git_and_github.jpeg";
-     const django = "src/assets/images/web_djano_coru.jpeg";
+     
 
 
      const projects=[

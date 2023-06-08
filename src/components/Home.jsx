@@ -1,8 +1,9 @@
 import React from "react";
 import Type from "./Type";
+import hero from "../assets/images/hero.JPG";
+
 
 const Home = ()=>{
-    const hero = "src/assets/images/hero.JPG";
   
     const social_media = [
         {logo:"logo-linkedin",link:"https://www.linkedin.com/in/abinet-anamo-668a40216"},
@@ -14,7 +15,7 @@ const Home = ()=>{
     <section
         id="home" 
         className="min-h-screen flex py-10 md:flex-row flex-col items-center ">
-        <div className="flex-1  items-center justify-center h-full">
+        <div className="flex-1  items-center justify-center h-full px-6">
           <img src={hero} alt=""  className="md:w-11/12 h-full object-cover rounded-xl"/>
         </div>
         <div className="flex-1 ">

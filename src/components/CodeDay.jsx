@@ -1,4 +1,5 @@
 import React from "react";
+import leetcode from "../assets/images/daysIcode.png";
 
 function Leetcode() {
   return (
@@ -7,7 +8,7 @@ function Leetcode() {
         Days I code on<span className="text-cyan-600"> <a href="https://leetcode.com/Abianamo/" target="_blank">Leetcode</a> </span> 
       </h1>
       <div className="mt-4">
-        <img src="src/assets/images/daysIcode.png" alt="Days I Code" />
+        <img src={leetcode} alt="Days I Code" />
       </div>
     </div>
   );

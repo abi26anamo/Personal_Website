@@ -1,17 +1,12 @@
 import React from "react";
-import { DiMongodb } from "react-icons/di";
 
 
 import {
   FaLinux,
   FaCode,
-  FaServer,
   FaWindows,
-  FaMobile,
   FaAndroid,
   FaGithub,
-  FaDatabase,
-  FaFigma,
   FaYoutube,
 } from "react-icons/fa";
 import { SiHeroku, SiPostman } from "react-icons/si";

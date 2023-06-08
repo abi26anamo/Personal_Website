@@ -4,7 +4,6 @@ import {
   SiFlutter,
   SiMysql,
   SiJavascript,
-  SiAndroid,
 } from "react-icons/si";
 import {
   DiReact,

@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { AiOutlineClose, AiOutlineMenu } from 'react-icons/ai';
 
 const Navbar = ()=>{
      const [sticky,setSticky] = useState(false);
@@ -46,7 +47,7 @@ const Navbar = ()=>{
                </div>
               
                <div onClick={()=>setOpen(!open)} className={`z-[999] ${open ? "text-gray-900":"text-gray-100"} text-3xl cursor-pointer md:hidden m-5`}>
-               {open ?<ion-icon name="close-outline"></ion-icon>:<ion-icon name="menu-outline"></ion-icon>}
+               {open ? <AiOutlineClose size={20} /> : <AiOutlineMenu size={20} />}
                </div>
 
                <div className={`md:hidden text-gray-900 absolute w-full h-screen  px-7 py-2 font-medium bg-cyan-600 top-0 ${open? "right-0":"right-[-100%]"} `}>
